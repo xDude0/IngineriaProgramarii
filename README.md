@@ -1,6 +1,6 @@
 Lab4
 
-Ilinca Costin Daniel
+Ilinca Costin Daniel (LIDER)
 Hont Alex
 Morosanu Stefan
 Andrei Prodan
